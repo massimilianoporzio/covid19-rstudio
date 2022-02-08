@@ -1,0 +1,16 @@
+---
+title: "Covid19 project"
+author: "Massimiliano Porzio"
+date: "08/02/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## COVID19 Project
+
+This is a project for learning how to analyse datasets
+
+The main goal is to do data analysis on covid19 data around the world
